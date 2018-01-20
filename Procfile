@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn refugio.wsgi --log-file -
